@@ -1,10 +1,10 @@
 import React from 'react';
-import proj1 from "../assets/pro1.png";
-import proj2 from "../assets/pro2.png";
-import proj3 from "../assets/pro3.png";
-import proj4 from "../assets/pro4.png";
-import proj5 from "../assets/pro5.png";
-import proj6 from "../assets/pro6.png";
+import proj1 from "../assets/Pro1.png";
+import proj2 from "../assets/Pro2.png";
+import proj3 from "../assets/Pro3.png";
+import proj4 from "../assets/Pro4.png";
+import proj5 from "../assets/Pro5.png";
+import proj6 from "../assets/Pro6.png";
 
 
 const Work = () => {
