@@ -62,7 +62,7 @@ const Work = () => {
                     <span className='text-2xl font-bold text-white tracking-wider'>VirtualR</span>
                     <span className='text-2xl font-bold text-white tracking-wider'>Landing Page</span>
                     <div className='pt-8 text-center'>
-                        <a href="https://virtual-r-sooty-three.vercel.app">
+                        <a href="https://virtual-r-sooty-three.vercel.app" target='_blank'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Live
                             </button>
